@@ -4,14 +4,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sumanth-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth14/ "Connect on LinkedIn")
 
 <br>
-<img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" height="200" wifdth="200">
-Hi,Sumanth here, a passionate developer and pentester who is enthusiatic to learn and explore new concepts and technologies.
+<!-- <img width="21%" align="right" alt="Github" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" height="200" wifdth="200"> -->
+Hi,Sumanth here, a passionate web developer who is enthusiatic to learn and explore new concepts and technologies.
 <br>
 Some Technologies and tools in which I've good command are MongoDB, NodeJS, Android Studio (Kotlin,Java), React.
 <br>
-<br>
+<!-- <br>
 Also I'm into competetive programming and participating in various contests has boosted my confidence and improved my problem-solving skills.
-<br>
+<br> -->
 
 ### Languages and Tools
 
@@ -30,14 +31,17 @@ Also I'm into competetive programming and participating in various contests has 
 
 
 <br>
-My GitHub Stats-
+<h3> My GitHub Stats-</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumanth-14&show_icons=true&theme=dark" width="400"></td>
-  <td>
+<img src="https://github-readme-stats.vercel.app/api?username=sumanth-14&show_icons=true&theme=dark" width="400">
+
  
  <h3> Reach me on:</h3>
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumanth14/) 
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reddysaisumanth8@gmail.com "Connect via Email")
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth14/ "Connect on LinkedIn")
+
+
 
 
 
