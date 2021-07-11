@@ -26,9 +26,7 @@ Also I'm into competetive programming and participating in various contests has 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 
-<table scrolling=no>
- <tr>
-  <td>
+
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumanth-14&show_icons=true&theme=dark" width="400"></td>
@@ -38,10 +36,7 @@ Also I'm into competetive programming and participating in various contests has 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumanth14/) 
 
-</td>
-  <tr>
- </table>
- 
+
 
 
  
