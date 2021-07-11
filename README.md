@@ -30,7 +30,7 @@ Also I'm into competetive programming and participating in various contests has 
 
 
 <br>
-### My GitHub Stats-
+My GitHub Stats-
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumanth-14&show_icons=true&theme=dark" width="400"></td>
   <td>
