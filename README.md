@@ -1,7 +1,5 @@
 ## Hello, geeks! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px">
 
-[![Gmail Badge](https://img.shields.io/badge/-reddysaisumanth8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reddysaisumanth8@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Sumanth-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth14/ "Connect on LinkedIn")
 
 <br>
 <!-- <img width="21%" align="right" alt="Github" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
@@ -28,7 +26,7 @@ Also I'm into competetive programming and participating in various contests has 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-
+<img src="http://img.shields.io/badge/-Python-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 <br>
 <h3> My GitHub Stats-</h3>
