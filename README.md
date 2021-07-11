@@ -26,7 +26,7 @@ Also I'm into competetive programming and participating in various contests has 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="http://img.shields.io/badge/-Python-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=FFFFFF">
 
 <br>
 <h3> My GitHub Stats-</h3>
