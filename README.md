@@ -2,8 +2,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-reddysaisumanth8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reddysaisumanth8@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Sumanth-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth14/ "Connect on LinkedIn")
-<img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" height="200" wifdth="200">
+
 <br>
+<img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" height="200" wifdth="200">
 Hi,Sumanth here, a passionate developer and pentester who is enthusiatic to learn and explore new concepts and technologies.
 <br>
 Some Technologies and tools in which I've good command are MongoDB, NodeJS, Android Studio (Kotlin,Java), React.
@@ -29,6 +30,7 @@ Also I'm into competetive programming and participating in various contests has 
 
 
 <br>
+### My GitHub Stats-
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumanth-14&show_icons=true&theme=dark" width="400"></td>
   <td>
