@@ -1,7 +1,7 @@
 ## Hello, geeks! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-reddysaisumanth8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reddysaisumanth8@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Shreyas%20Bhakta-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth14/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Sumanth-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth14/ "Connect on LinkedIn")
 <br>
 Hi,Sumanth here, a passionate developer and pentester who is enthusiatic to learn and explore new concepts and technologies.
 <br>
@@ -28,7 +28,7 @@ Also I'm into competetive programming and participating in various contests has 
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyasbhakta&show_icons=true&theme=dark" width="400"></td>
+<img src="https://github-readme-stats.vercel.app/api?username=sumanth-14&show_icons=true&theme=dark" width="400"></td>
   <td>
  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" height="200" wifdth="200">
  <h3> Reach me on:</h3>
